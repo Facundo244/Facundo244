@@ -1,6 +1,7 @@
 ## Hello
 
-My name is Facundo , Im from Argentina and im a Front-End Developer
+My name is Facundo , Im from Argentina and im a Front-End Developer 
+and I have knowledge about back-end
 
 ## Skills
 
