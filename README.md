@@ -9,7 +9,7 @@ I'm a passionate and proactive DevOps & QA professional currently working at Eld
 - **Collaboration:** Thrive in team environments, where knowledge sharing and collective growth are prioritized.
 
 ## 🎯 Key Experiences
-- 📄 [Detailed Resume](#) *(Include a link to your resume here)*
+- 📄 [Detailed Resume](#) 
 - **Current Role:** DevOps & QA at Eldar, where I apply agile methodologies to streamline processes and ensure the highest quality in software releases.
 - **Education:** Currently studying the University Technician in Programming at UTN Avellaneda.
 
