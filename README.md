@@ -56,8 +56,8 @@
 
 ### 📫 Connect with me!  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/facundo-morcillo/)  
-[![Email](https://img.shields.io/badge/Email-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:facundomorcillo822@gmail.com)  
-[![Phone](https://img.shields.io/badge/Phone-%230077B5.svg?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+541138209057)  
+**Phone**: +54 1138209057
+**Emaill**: facundomorcillo822@gmail.com
 ---
 
 ## 📄 My CV  
